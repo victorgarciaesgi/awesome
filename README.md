@@ -68,7 +68,7 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
 - [omi-chart](https://github.com/Tencent/omi/tree/master/packages/omi-chart) - Omi
 - [react-chartjs-2](https://github.com/jerairrest/react-chartjs-2) - React
 - [vue-chartjs](https://github.com/apertureless/vue-chartjs/) - Vue.js
-
+- [vue-chart-3](https://github.com/victorgarciaesgi/vue-chart-3) - Chart.js 3 for Vue.js 2 & 3
 ### Others
 
 - [charba](https://github.com/pepstock-org/Charba) - GWT/J2CL
